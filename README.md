@@ -3,7 +3,7 @@
 </h1>
 
 ### About Me:
-My name is Aghnat, studying in IPB University majoring in Computer Science. I have an interests in Mobile Development and Web Development. Currently learning about Flutter and Back-end.
+My name is Aghnat, studying in IPB University majoring in Computer Science. I have an interests in Web Development strongly focus in backend. 
 ### Languages and Tools:
 <div id="language-badges">
   <a href="https://dart.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40"/></a>&nbsp;

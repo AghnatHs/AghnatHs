@@ -35,6 +35,9 @@ Interests in: Backend Engineering, CI/CD, Microservices and Scalable Architectur
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
 ### Contact
 <div id="badges">

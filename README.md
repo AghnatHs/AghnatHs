@@ -3,7 +3,13 @@
 </h1>
 
 ### About Me:
-My name is Aghnat, studying in IPB University majoring in Computer Science. I have an interest in Software and Application Development with a strong focus on **backend** engineering.
+Third year Computer Science student at IPB University, with a strong focus on **backend web development** (i can do frontend too... a little little bit).
+
+Experienced in building backends, working with databases, and system design.
+
+Passionate about exploring various aspects of software development and engineering, especially in the context of enterprise-level systems.
+
+Interests in: Backend Engineering, CI/CD, Microservices and Scalable Architecture for web apps, System Integration, System Design, Database Design, Clean Code
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)

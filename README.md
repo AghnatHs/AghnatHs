@@ -3,16 +3,11 @@
 </h1>
 
 ### About Me:
-Third year Computer Science student at IPB University, with a strong focus on software engineering especially server-side development. Beside that, i'm currently learning about AI too (ML, DL, etc)
+I have hands-on experience building backend and server-side systems end-to-end, from requirements into production, including RESTful APIs, database schema design, system analysis, and integration with external services. Both in startup environments and freelance projects, where requirements evolve rapidly and technical decisions must be made with long-term in mind, giving those decisions direct business impact.
 
-Experienced in building backends, server-side development, working with databases, system design and system analysis (especially at freelancing works).
+Alongside those, I am actively expanding my knowledge in cloud computing, cybersecurity, and applied AI.
 
-Passionate about exploring various aspects of software development and engineering, in the context of enterprise-level systems. Constantly learning about software engineering field with addition to cloud, cyber security and AI.
-
-I care deeply about clean, maintainable code and well-structured software architecture. I believe that a truly great system is one that’s both strategically aligned with business goals and technically sound.
-
-Interests in: Software Engineering (Backend, distributed system, etc), Cloud computing, AI and Cyber security
-Primary Framework: Express (JS and TS), Nest TS, Laravel, Java (Spring Boot), and many more (i'm adaptive and eager to learn a new things!)
+I am highly adaptive and comfortable learning new stacks when needed, prioritizing strong engineering fundamentals over framework-specific knowledge
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)

@@ -53,3 +53,8 @@ I am highly adaptive and comfortable learning new stacks when needed, prioritizi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
 </div>
+
+<br>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AghnatHs&theme=radical" height="180"/>
+</div>

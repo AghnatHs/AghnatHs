@@ -58,4 +58,6 @@ I am highly adaptive and comfortable learning new stacks when needed, prioritizi
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AghnatHs&theme=radical" height="180"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AghnatHs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AghnatHs&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
 </div>

@@ -2,6 +2,8 @@
   Hey There!
 </h1>
 
+[![wakatime](https://wakatime.com/badge/user/bfa9d535-3046-47ca-ba7f-6efeae00bb5d.svg)](https://wakatime.com/@bfa9d535-3046-47ca-ba7f-6efeae00bb5d)
+
 ### About Me:
 I have hands-on experience building backend and server-side systems end-to-end, from requirements into production, including RESTful APIs, database schema design, system analysis, and integration with external services. Both in startup environments and freelance projects, where requirements evolve rapidly and technical decisions must be made with long-term in mind, giving those decisions direct business impact.
 
